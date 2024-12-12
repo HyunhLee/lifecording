@@ -13,6 +13,7 @@ public class Casting {
         int e = (int) 1.1;
         System.out.println(e);
 
+
         String f = Integer.toString(1);
         System.out.println(f);
         System.out.println(f.getClass());
